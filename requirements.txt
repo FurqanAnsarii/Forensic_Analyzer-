@@ -1,0 +1,5 @@
+# THE SENTINEL - Automated Forensic Engine
+# Developed by Furqan Ansari
+
+colorama==0.4.6
+scapy==2.5.0
