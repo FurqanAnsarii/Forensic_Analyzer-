@@ -22,8 +22,8 @@ Ensure you have Python 3.x installed on your Linux machine.
 1. Clone the Repository
 Bash
 
-git clone https://github.com/your-username/the-sentinel.git
-cd the-sentinel
+https://github.com/FurqanAnsarii/Forensic_Analyzer-.git
+cd Forensic_Analyzer-.git
 
 2. Install Dependencies
 Bash
