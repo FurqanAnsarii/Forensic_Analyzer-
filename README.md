@@ -1,5 +1,3 @@
- Gemini said
-
 Here is a fully professional, high-end README.md file written in English for your GitHub and LinkedIn. It is designed to look like it belongs to a top-tier cybersecurity researcher.
 🛡️ THE SENTINEL: Advanced Automated Forensic Suite
 
